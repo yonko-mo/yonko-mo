@@ -20,8 +20,8 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔗 **Wheel N' Deal** — Graduation Project (Flutter, Team-based)  
-- 🔗 Dart Homework — Dart practice & fundamentals  
+- 🔗 [**Wheel N' Deal**](https://github.com/yonko-mo/Wheel-n-Deal) — Graduation Project (Flutter, Team-based)  
+- 🔗 [**Dart Homework**](https://github.com/yonko-mo/dart_homework) — Dart practice & fundamentals
 
 ---
 
