@@ -26,13 +26,13 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔗 [**Weather App**](https://github.com/yonko-mo/homework/tree/main/flutter/session_10_homework/weather_app)  
+- 🔗 [**Weather App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_10_homework/weather_app)  
   Flutter weather application using API integration and state management with Cubit.
 
-- 🔗 [**Task Management App**](https://github.com/yonko-mo/homework/tree/main/flutter/session_5_homework/task_management_app)  
+- 🔗 [**Task Management App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_5_homework/task_management_app)  
   Simple task management app focused on UI and basic app structure.
 
-- 🔗 [**Quiz App**](https://github.com/yonko-mo/homework/tree/main/flutter/session_6_homework/quiz_app)  
+- 🔗 [**Quiz App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_6_homework/quiz_app)  
   Interactive quiz application for practicing logic and state handling.
 
 ---
