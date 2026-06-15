@@ -63,7 +63,7 @@
 
 <h3 align="center">📄 My CV</h3>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1wTRgebHES2s24rWGGbJDd7FXE3QlFKTP/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1C6rSuCR9Sk0gk0pLOboLBRhPZsnYLR-F/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download%20CV-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
