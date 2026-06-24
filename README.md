@@ -6,13 +6,14 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Science graduate from Tanta University  
 - 📱 Interested in mobile application development using Flutter & Dart  
-- 📚 Currently practicing Dart fundamentals and small Flutter projects  
+- 🌱 Currently enhancing my Flutter skills through real-world projects and modern app development practices 
 - 🎯 Goal: Become a professional Junior Mobile Developer  
 - Fun fact: I enjoy turning small coding challenges into mini projects.
 
 ---
 
 ### 🛠 Top Technical Skills & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,postman,vscode&perline=7" />
 </p>
@@ -20,20 +21,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cubit-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/State%20Management-7B1FA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hive%20Storage-F9A825?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SharedPreferences-4CAF50?style=for-the-badge" />
 </p>
+
 
 ---
 
 ## 🚀 Featured Projects
-- 🔗 [**Weather App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_10_homework/weather_app)  
-  Flutter weather application using API integration and state management with Cubit.
 
-- 🔗 [**Task Management App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_5_homework/task_management_app)  
-  Simple task management app focused on UI and basic app structure.
+* 🔗 [**Chatbot App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_14_homework/chatbot_app)
+  AI-powered Flutter chatbot application using Google Gemini API, Dio networking, Cubit state management, local storage, and clean architecture.
 
-- 🔗 [**Quiz App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_6_homework/quiz_app)  
-  Interactive quiz application for practicing logic and state handling.
+* 🔗 [**Task Management App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_5_homework/task_management_app)
+  Flutter task management application with Hive local storage, CRUD operations, Cubit state management, and feature-first architecture.
+
+* 🔗 [**Weather App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_10_homework/weather_app)
+  Flutter weather application using REST API integration, Cubit state management, and dynamic weather data visualization.
+
 
 ---
 
