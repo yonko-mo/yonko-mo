@@ -30,15 +30,14 @@
 
 ## 🚀 Featured Projects
 
+* 🔗 [**Grocery App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_20_homework/grocery_app)
+  Flutter e-commerce application featuring Firebase Authentication, Firestore integration, local user caching with SharedPreferences, Cubit state management, and feature-based architecture.
+
 * 🔗 [**Chatbot App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_14_homework/chatbot_app)
   AI-powered Flutter chatbot application using Google Gemini API, Dio networking, Cubit state management, local storage, and clean architecture.
 
 * 🔗 [**Task Management App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_5_homework/task_management_app)
   Flutter task management application with Hive local storage, CRUD operations, Cubit state management, and feature-first architecture.
-
-* 🔗 [**Weather App**](https://github.com/yonko-mo/tharwat_academy_diploma_homework/tree/main/flutter/session_10_homework/weather_app)
-  Flutter weather application using REST API integration, Cubit state management, and dynamic weather data visualization.
-
 
 ---
 
