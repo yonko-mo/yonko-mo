@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed ElSanteel</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
 <h3 align="center">Computer Science Graduate | Flutter Developer</h3>
 
 ---
